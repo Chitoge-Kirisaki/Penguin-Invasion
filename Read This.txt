@@ -1,4 +1,1 @@
-I plan to persue computer science in the future and over the years I have attempted to create numerous projects to test the information ive learned 
-and in general just to test my curiosity. Ive really only had three sucessful projects, with this one being the "best" one. I created it using an app called Unity. 
-If you exctract the folder and run the application "penguin invasion" youll find the game. the scripts that i used should be able to seen but you would have to download
- unity and open up the project. Feel free to test out the app yourself or just see what i found to be my greatest creation so far. 
+As I pursue a future in computer science, I've explored various projects to test my knowledge and satisfy my curiosity. Among my attempts, I’ve successfully completed three notable projects, with the most impressive being a game I developed using Unity. To experience the game, extract the folder and run the application named "Penguin Invasion." The scripts are accessible if you download Unity and open the project. Feel free to try out the game yourself or explore.
